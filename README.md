@@ -1,6 +1,7 @@
 ### inspo
 - fren ask
 - base code from https://github.com/tedgrubb/pinball-recall
+- [play here](https://jaydenclim.com/pinball)
 
 ### steps to run
 1. download code as zip file
